@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<title>GGEZ GAMES - Home</title>
+    <link rel="icon" href="game.png">
+  </head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-metro.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 80px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 80px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 80px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+</style>
+  
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+    <a href="index.html" class="w3-bar-item w3-button"><b>GGEZ</b> GAMES</a>
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="index.html" class="w3-bar-item w3-button">Home</a>
+      <a href="privacy.html" class="w3-bar-item w3-button">Privacy Policy</a>
+      <a href="terms.html" class="w3-bar-item w3-button">Terms & Conditions</a>
+    </div>
+    
+    <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
+      <i class="fa fa-bars"></i>
+    </a>
+    
+  </div>
+</div>
+  
+<!-- Sidebar on small screens when clicking the menu icon -->
+<nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
+  <a href="index.html" onclick="w3_close()" class="w3-bar-item w3-button">Home</a>
+  <a href="privacy.html" onclick="w3_close()" class="w3-bar-item w3-button">Privacy Policy</a>
+  <a href="terms.html" onclick="w3_close()" class="w3-bar-item w3-button">Terms & Conditions</a>
+</nav>
+
+<!-- Header -->
+<br><br><header class="w3-display-container w3-content w3-wide" style="max-width:1920px;" id="home">
+  <img class="w3-image" src="bg.jpg" alt="Picture" width="1920" height="720">
+</header>
+  
+<!-- Page content -->
+<div class="w3-content w3-padding" style="max-width:1564px">
+
+  <!-- About Section -->
+  <div class="w3-container w3-padding-20" id="about">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">About</h3>
+    <p>GGEZ GAMES is an independent game development based in Malaysia. We make unique and fun time-killing hypercasual games!</p>
+  </div>
+  
+  <!-- Project Section 1-->
+  <div class="w3-container w3-padding-20" id="projects">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Projects</h3>
+  </div>
+  
+  <div class="w3-row-padding">
+    
+    <p>ONGOING</p>
+    
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Smashgrounds.io (ANDROID)</div>
+        <a href="https://play.google.com/store/apps/details?id=com.mob.smashgrounds"><img src="header.png" alt="House" style="width:100%"></a>
+      </div>
+    </div>
+    
+        <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Smashgrounds.io (IOS)</div>
+        <a href="https://apps.apple.com/app/id1561502255"><img src="header copy.png" alt="House" style="width:100%"></a>
+      </div>
+    </div>
+    
+            <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Ragdoll Warfare (2022)</div>
+        <a href=""><img src="header55.png" alt="House" style="width:100%"></a>
+      </div>
+    </div>
+    
+        <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Horrorscape.io (2023)</div>
+        <a href=""><img src="header111.png" alt="House" style="width:100%"></a>
+      </div>
+    </div>
+    
+    <p>CANCELLED</p>
+    
+                    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">The Passage VR (2017)</div>
+        <a href=""><img src="header77.png" alt="House" style="width:100%"></a>
+      </div>
+    </div>
+    
+                <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Rampage Rumble (2017)</div>
+        <a href=""><img src="header88.png" alt="House" style="width:100%"></a>
+      </div>
+    </div>
+    
+                  <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Crowd Road (2019)</div>
+        <a href=""><img src="header99.png" alt="House" style="width:100%"></a>
+      </div>
+    </div>
+    
+  </div>
+  
+      <!-- Contact Section -->
+  <div class="w3-container w3-padding-20" id="contact">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Contact Us</h3>
+    <p>EMAIL : <a href="mailto:support@ggezgames.net">support@ggezgames.net</a><br><br>
+       <a href="https://www.facebook.com/ggezgames" class="fa fa-facebook"></a>
+       <a href="https://www.youtube.com/channel/UCJqvNUfQdwaiINH5F1KngTA" class="fa fa-youtube"></a>
+       <a href="https://www.instagram.com/ggezgames.io" class="fa fa-instagram"></a>
+    </p>
+  </div>
+  
+    <!-- Media Section -->
+  <div class="w3-container w3-padding-20" id="media">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Media</h3>
+  <iframe width="300" height="200"
+  src="https://www.youtube.com/embed/P2-ewHrXbHc?autoplay=1">
+  </iframe>
+  </div>
+  
+  <p>
+    <br>
+  </p>
+
+<!-- End page content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-metro-darken w3-padding-16">
+  <!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7892266&style=0006&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a> <br>  
+  <p>Copyright © 2022 GGEZ GAMES</p>
+</footer>
+  
+  <script>
+// Toggle between showing and hiding the sidebar when clicking the menu icon
+var mySidebar = document.getElementById("mySidebar");
+
+function w3_open() {
+  if (mySidebar.style.display === 'block') {
+    mySidebar.style.display = 'none';
+  } else {
+    mySidebar.style.display = 'block';
+  }
+}
+
+// Close the sidebar with the close button
+function w3_close() {
+    mySidebar.style.display = "none";
+}
+</script>
+
+</body>
+</html>
