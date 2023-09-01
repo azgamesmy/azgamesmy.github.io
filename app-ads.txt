@@ -17,6 +17,7 @@ adcolony.com, 1cc6c8356ccbd560405a800ec8408e95, DIRECT, 1ad675c9de6b5176
 
 #===FACEBOOK
 facebook.com, 162319611493986, DIRECT, c3e20eee3f780d68
+facebook.com, 162319611493986, RESELLER, c3e20eee3f780d68
 
 #===APPODEAL
 #Updated 25th August 2023
@@ -29,7 +30,7 @@ bidmachine.io, 221325, DIRECT
 #NULL
 #Meta Facebook
 #Replace the Business_ID below with your Meta Business ID
-facebook.com, 162319611493986, RESELLER, c3e20eee3f780d68 
+#NULL
 
 #Resellers
 152media.info,152M10,RESELLER
