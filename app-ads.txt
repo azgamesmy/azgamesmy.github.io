@@ -1,3 +1,13 @@
+applovin.com, 841b67345a9cc5df2b1c9849576cfdc3, DIRECT
+loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+xandr.com, 13799, RESELLER
+media.net, 8CUD06Z68, RESELLER
+
 #Last update Jun 09, 2023
 #=== AdMob Apr 13, 2023
 google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
