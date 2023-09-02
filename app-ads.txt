@@ -1,3 +1,12 @@
+#===ADMOB
+google.com, pub-3552458350930311, DIRECT, f08c47fec0942fa0
+
+#===FACEBOOK META
+facebook.com, 162319611493986, RESELLER, c3e20eee3f780d68
+
+#===ADCOLONY
+adcolony.com, 1cc6c8356ccbd560405a800ec8408e95, DIRECT, 1ad675c9de6b5176
+
 #===APPLOVIN MAX
 applovin.com, 841b67345a9cc5df2b1c9849576cfdc3, DIRECT
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
@@ -8,15 +17,6 @@ pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
 xandr.com, 13799, RESELLER
 media.net, 8CUD06Z68, RESELLER
-
-#===ADMOB
-google.com, pub-3552458350930311, DIRECT, f08c47fec0942fa0
-
-#===ADCOLONY
-adcolony.com, 1cc6c8356ccbd560405a800ec8408e95, DIRECT, 1ad675c9de6b5176
-
-#===FACEBOOK META
-facebook.com, 162319611493986, RESELLER, c3e20eee3f780d68
 
 #===UNITY
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
