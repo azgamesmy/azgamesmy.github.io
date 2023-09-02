@@ -179,14 +179,6 @@ adapex.io, s1809, RESELLER
 adapex.io, s2100, RESELLER
 adapex.io, s2169, RESELLER
 adbility-media.com,187, RESELLER
-adcolony.com,197af3936679d34e, RESELLER,1ad675c9de6b5176
-adcolony.com,1efc6603710003ea, RESELLER,1ad675c9de6b5176
-adcolony.com,29b7f4a14dc689eb, RESELLER
-adcolony.com,29b7f4a14dc689eb, RESELLER,1ad675c9de6b5176
-adcolony.com,382d79cd1387e603, RESELLER,1ad675c9de6b5176
-adcolony.com,496220845654deec, RESELLER,1ad675c9de6b5176
-adcolony.com, c7b2bb9f944ae42a, RESELLER,1ad675c9de6b5176
-adcolony.com, fcaa373cac67c9f927aa914013b8346e, RESELLER,1ad675c9de6b5176
 adelement.com,101, RESELLER
 adelement.com,30020, RESELLER
 adelement.com,30167, RESELLER
