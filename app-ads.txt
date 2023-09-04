@@ -170,6 +170,7 @@ yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
 
+#===APPODEAL
 #Updated 25th August 2023
 #Appodeal
 appodeal.com, 221325, DIRECT
@@ -188,14 +189,6 @@ adapex.io, s1809, RESELLER
 adapex.io, s2100, RESELLER
 adapex.io, s2169, RESELLER
 adbility-media.com, 187, RESELLER
-adcolony.com, 197af3936679d34e, RESELLER, 1ad675c9de6b5176
-adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
-adcolony.com, 29b7f4a14dc689eb, RESELLER
-adcolony.com, 29b7f4a14dc689eb, RESELLER, 1ad675c9de6b5176
-adcolony.com, 382d79cd1387e603, RESELLER, 1ad675c9de6b5176
-adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
-adcolony.com, c7b2bb9f944ae42a, RESELLER, 1ad675c9de6b5176
-adcolony.com, fcaa373cac67c9f927aa914013b8346e, RESELLER, 1ad675c9de6b5176
 adelement.com, 101, RESELLER
 adelement.com, 30020, RESELLER
 adelement.com, 30208, RESELLER
@@ -242,7 +235,6 @@ app-stock.com, 256917, RESELLER
 app-stock.com, 343264, RESELLER
 app-stock.com, 358747, RESELLER
 appads.in, 105536, RESELLER
-applovin.com, 5c72b49c2b2ce6949bf0f98eafe9e417, RESELLER
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11236, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11450, RESELLER, f5ab79cb980f11d1
@@ -974,7 +966,6 @@ uis.mobfox.com, 1424, RESELLER, 5529a3d1f59865be
 uis.mobfox.com, 1729, RESELLER, 5529a3d1f59865be
 uis.mobfox.com, 1750, RESELLER, 5529a3d1f59865be
 undertone.com, 4108, RESELLER
-unity.com, 1004715, RESELLER, 96cabb5fbdde37a7
 unrulymedia.com, 4173858586, RESELLER, 6f752381ad5ec0e5
 unrulymedia.com, 831638248788941126, RESELLER, 6f752381ad5ec0e5
 unrulymedia.com.com, 3218195319, RESELLER, 89ff185a4c4e857c
