@@ -56,7 +56,6 @@ rubiconproject.com, 20086, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12556, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 14334, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 18364, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 20014, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 21526, RESELLER, 0bfd66d529a55807
@@ -165,7 +164,6 @@ xandr.com, 8804, RESELLER, f5ab79cb980f11d1
 xandr.com, 7353, RESELLER, f5ab79cb980f11d1
 xandr.com, 13167, RESELLER, f5ab79cb980f11d1
 xandr.com, 13297, RESELLER, f5ab79cb980f11d1
-xandr.com, 13799, RESELLER
 yeahmobi.com, 5135195, RESELLER
 triplelift.com, 13883, RESELLER, 6c33edb13117fd86
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
