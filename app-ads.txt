@@ -569,7 +569,6 @@ admixer.net, 6477248d-9798-4581-9bfd-2e83e6d35cd3, RESELLER
 admixer.net, 75e4a586-442d-47c3-ac85-0b5b00547cdd, RESELLER
 admixer.net, de2ae535-59eb-4f0b-95e3-89f821933d47, RESELLER
 adsparc.com, 986, RESELLER
-adsparc.com, 1319, RESELLER
 adswizz.com, targetspot, RESELLER
 adtelligent.com, 312555, RESELLER, 7de89dc7742b5b11
 advertising.com, 24315, RESELLER
