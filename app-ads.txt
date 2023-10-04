@@ -743,7 +743,6 @@ sonobi.com, a85c5f6129, RESELLER, d1a215d9eb5aee9e
 display.io, 173162, RESELLER
 freewheel.tv, 1600180, RESELLER
 freewheel.tv, 1600214, RESELLER
-Pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 524101463, RESELLER, 29bc7d05d309e1bc
 Adform.com, 2742, RESELLER
 bidmachine.io, 148, RESELLER
