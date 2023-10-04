@@ -20,6 +20,7 @@ xandr.com, 13799, RESELLER
 media.net, 8CUD06Z68, RESELLER
 
 #===UNITY
+152media.info, 152M324, RESELLER
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
 adelement.com, 30167, RESELLER
@@ -60,6 +61,8 @@ google.com, pub-7251712046059526, RESELLER
 google.com, pub-7251712046059526, RESELLER, f08c47fec0942fa0
 google.com, pub-8728712656723745, RESELLER
 google.com, pub-8728712656723745, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1604, RESELLER
+improvedigital.com, 2052, RESELLER
 indexexchange.com, 186081, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 186684, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 194080, RESELLER, 50b1c356f2c5c8fc
@@ -84,6 +87,8 @@ openx.com, 540866936, RESELLER, 6a698e2ec38604c6
 openx.com, 540871654, RESELLER, 6a698e2ec38604c6
 openx.com, 541031350, RESELLER, 6a698e2ec38604c6
 opera.com, pub6794361378752, RESELLER, 55a0c5fd61378de3
+playwire.com, 1018531, RESELLER
+playwire.com, 1025000, RESELLER
 pokkt.com, 6246, RESELLER, c45702d9311e25fd
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
 pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
@@ -134,6 +139,7 @@ rubiconproject.com, 21526, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24526, RESELLER, 0bfd66d529a55807
+smartclip.net, 13564, RESELLER
 spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
 spotx.tv, 149886, RESELLER, 7842df1d2fe2db34
 spotx.tv, 71426, RESELLER, 7842df1d2fe2db34
@@ -737,7 +743,6 @@ sonobi.com, a85c5f6129, RESELLER, d1a215d9eb5aee9e
 display.io, 173162, RESELLER
 freewheel.tv, 1600180, RESELLER
 freewheel.tv, 1600214, RESELLER
-Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 Pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 524101463, RESELLER, 29bc7d05d309e1bc
 Adform.com, 2742, RESELLER
