@@ -561,6 +561,16 @@ thunder-monetize.com, 4588767099, RESELLER
 opera.com, pub9598692093632, RESELLER, 55a0c5fd61378de3
 opera.com, pub9598682313984, RESELLER, 55a0c5fd61378de3
 smartadserver.com, 4762, RESELLER, 060d053dcf45cbf3
+appnexus.com, 15426, RESELLER, f5ab79cb980f11d1
+xandr.com, 15426, RESELLER, f5ab79cb980f11d1
+smaato.com, 1100055341, RESELLER, 07bcf65f187117b4
+sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
+inmobi.com, 23800006c42e4a739966c05ca0ac4854, RESELLER, 83e75a7ae333ca9d
+openx.com, 559792583, RESELLER, 6a698e2ec38604c6
+loopme.com, 11694, RESELLER, 6c8d5f95897a5a3b
+conversantmedia.com, 100611, RESELLER, 03113cd04947736d
+triplelift.com, 11000, RESELLER, 6c33edb13117fd86
+algorix.co, 604550, RESELLER, 5b394c12fea27a1d
 
 #===VUNGLE
 vungle.com, 651a31e7853ea6001163524b, DIRECT, c107d686becd2d77
